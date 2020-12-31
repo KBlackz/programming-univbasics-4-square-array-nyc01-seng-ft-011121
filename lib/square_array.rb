@@ -1,3 +1,10 @@
 def square_array(array)
-  # your code here
-end
+ new_numbers = ["1","16","81"]  
+ while new_numbers < square.length
+ 
+ end
+end 
+ 
+ 
+ 
+ 
